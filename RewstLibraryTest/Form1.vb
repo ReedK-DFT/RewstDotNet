@@ -3,7 +3,7 @@ Imports System.Net.Http.Json
 
 Public Class Form1
 
-    Const VAULT As String = "https://akv-2-isuztref6n4i4ee.vault.azure.net/"
+    Const VAULT As String = ""
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
