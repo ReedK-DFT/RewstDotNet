@@ -36,7 +36,7 @@ Partial Class Form1
         TextBox1.Name = "TextBox1"
         TextBox1.Size = New Size(773, 31)
         TextBox1.TabIndex = 0
-        TextBox1.Text = "https://engine.rewst.io/webhooks/custom/trigger/0190e032-673e-7ac0-b3e8-2b44f2aa9b45/3f245a85-e037-40db-9845-4a61d0a8d0e2"
+        TextBox1.Text = ""
         ' 
         ' TextBox2
         ' 
@@ -45,7 +45,7 @@ Partial Class Form1
         TextBox2.Name = "TextBox2"
         TextBox2.Size = New Size(773, 31)
         TextBox2.TabIndex = 1
-        TextBox2.Text = "rewst-webhook-dispatchassistant"
+        TextBox2.Text = ""
         ' 
         ' Button1
         ' 
