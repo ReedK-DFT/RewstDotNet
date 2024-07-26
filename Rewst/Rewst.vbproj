@@ -8,6 +8,9 @@
     <Company>Dragonfly Technologies</Company>
     <Description>Provides easy consumption of Rewst workflow webhooks.
 This is a community maintained assembly and is not supported by the ROC.</Description>
+    <PackageProjectUrl>https://github.com/ReedK-DFT/RewstDotNet/tree/master</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ReedK-DFT/RewstDotNet/tree/master</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>

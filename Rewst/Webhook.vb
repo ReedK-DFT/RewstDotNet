@@ -18,6 +18,7 @@ Public Class Webhook
     Public Sub New()
         JsonOptions.IncludeFields = True
         JsonOptions.PropertyNameCaseInsensitive = True
+        JsonOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase
     End Sub
 
     Public Sub New(webhookAddress As String)
